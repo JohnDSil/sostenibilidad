@@ -1,6 +1,6 @@
 # SOSTENIBILIDAD
 
-https://img.shields.io/badge/sostenibilidad-green
+![Sostenibilidad](https://img.shields.io/badge/sostenibilidad-green)
 
 ## Índice
 
