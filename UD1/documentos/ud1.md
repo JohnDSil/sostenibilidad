@@ -1,4 +1,4 @@
-![indice](sostenibilidad)
+![indice](sostenibilidad/README.md)
 
 ![imagen](UD1/img/sos.jpg)
 
