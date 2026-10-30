@@ -1,4 +1,4 @@
-![indice](sostenibilidad/README.md)
+![indice](https://github.com/JohnDSil/sostenibilidad)
 
 ![imagen](UD1/img/sos.jpg)
 
